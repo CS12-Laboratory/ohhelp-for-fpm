@@ -12,7 +12,7 @@ The site that provided OhHelp is no longer available, so we are redistributing i
 ## Install
 ``` toml
 [dependencies]
-ohhelp = { git = "https://github.com/Nkzono99/ohhelp-for-fpm" }
+ohhelpf = { git = "https://github.com/Nkzono99/ohhelp-for-fpm" }
 ```
 
 ## References
