@@ -32,4 +32,6 @@ module oh_type
     integer, parameter :: OH_PCL_INJECTED = 1
     integer, parameter :: OH_PCL_TO_BE_ACCUMULATED = -1
     integer, parameter :: OH_PCL_TO_BE_ACCUMULATED_AS_ANTIPCL = -2
+    integer, parameter :: OH_PCL_TO_BE_ACCUMULATED_TO_COND = -3
+    integer, parameter :: OH_PCL_TO_BE_ACCUMULATED_TO_COND_AS_ANTIPCL = -4
 end module
