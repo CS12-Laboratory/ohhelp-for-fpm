@@ -17,6 +17,7 @@ module oh_type
         real*8 :: x, y, z, vx, vy, vz
         integer   :: pid
         integer :: preside
+        integer*8 :: trace_id  ! Unique particle tracking ID
 
 #ifdef OH_BIG_SPACE
         integer*8 :: nid

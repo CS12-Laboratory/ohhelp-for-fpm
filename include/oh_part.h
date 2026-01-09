@@ -23,6 +23,7 @@ typedef int OH_nid_t;
 struct S_particle {
   double x, y, z, vx, vy, vz;
   int pid, preside;
+  long long int trace_id;  /* Unique particle tracking ID */
   OH_nid_t nid;
   int spec;
 };
