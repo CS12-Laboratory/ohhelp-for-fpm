@@ -15,5 +15,16 @@ The site that provided OhHelp is no longer available, so we are redistributing i
 ohhelpf = { git = "https://github.com/Nkzono99/ohhelp-for-fpm" }
 ```
 
+## License notice
+
+This repository contains code derived from the original OhHelp software.
+Some original source files include a non-commercial-use notice.
+
+The MIT License applies only to files or portions explicitly authored by Jin Nakazono,
+unless otherwise stated. It does not override the license terms of the original OhHelp code.
+
+Commercial use of the repository as a whole has not been confirmed.
+Please contact the relevant rights holders before any commercial use.
+
 ## References
 [^nakashima_2019]: Nakashima, Hiroshi, Yohei Miyake, Hideyuki Usui, and Yoshiharu Omura. 2009. “OhHelp: A Scalable Domain-Decomposing Dynamic Load Balancing for Particle-in-Cell Simulations.” In Proceedings of the 23rd International Conference on Supercomputing, 2009, Yorktown Heights, NY, USA, June 8-12, 2009, 90–99. unknown.

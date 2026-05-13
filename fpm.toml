@@ -1,9 +1,9 @@
 name = "ohhelpf"
 version = "1.0.0"
-license = "MIT"
-author = "Nkzono99"
-maintainer = "j-nakazono@stu.kobe-u.ac.jp"
-copyright = "Copyright 2023, Nkzono99"
+license = "LicenseRef-OhHelp-NonCommercial AND MIT"
+author = "Hiroshi Nakashima and contributors"
+maintainer = "Jin Nakazono <nakazono.jin@port.kobe-u.ac.jp>"
+copyright = "Copyright (C) 2009-2015 Hiroshi Nakashima; Copyright (C) 2023 Jin Nakazono"
 
 [build]
 auto-tests = true

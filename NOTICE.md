@@ -1,17 +1,13 @@
-# NOTICE.md
+## License clarification
 
-## OhHelp Library Package: Version 1.1.1 (2015/10/23)
+This repository contains code derived from the original OhHelp software.
 
-Copyright (C) 2009-2015  Hiroshi Nakashima <h.nakashima@media.kyoto-u.ac.jp> (ACCMS, Kyoto University)
-                        
-### LICENSE (See the top of each program file for original text.)
+The original OhHelp source files include a non-commercial-use notice. The
+license text is reproduced in `LICENSES/OhHelp-NonCommercial.txt`.
 
-``` Fortran
-!  File: *****.***
-!  Version 1.1.1 (2015/10/23)
-!  Copyright (C) 2009-2015  Hiroshi Nakashima <h.nakashima@media.kyoto-u.ac.jp>
-!                           (ACCMS, Kyoto University)
-!  This program can be freely used, redistributed and modified for non-
-!  commercial purpose providing that the copyright notice above remains
-!  unchanged.
-```
+The MIT License applies only to files or portions authored by Jin Nakazono,
+unless otherwise explicitly stated. It does not override the original OhHelp
+non-commercial license notice.
+
+Therefore, the repository as a whole should not be assumed to be available for
+commercial use under the MIT License.
